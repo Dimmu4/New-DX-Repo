@@ -1,0 +1,413 @@
+[
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199110887,
+            "changeTime": 1516199110887,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199110888,
+            "changeTime": 1516199110888,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399121,
+            "changeTime": 1516199399121,
+            "contentHash": "78cdf362c12bc1b88fff8615c5efcb2f937b14c6"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199110889,
+            "changeTime": 1516199110889,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1",
+        {
+            "state": "n",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199391387,
+            "changeTime": 1516199391387,
+            "contentHash": "b979baf0bf2ed44d98de503efd8a523f33a1ed5f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\components\\Component1_dx3.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\components\\Component1_dx3.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1516199399068,
+            "changeTime": 1516199399068,
+            "contentHash": "169ce1544089700c03f35895cad8ebea987f8bfa"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\components\\Component1_dx3.component",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\components\\Component1_dx3.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 171,
+            "modifiedTime": 1516199399069,
+            "changeTime": 1516199399069,
+            "contentHash": "61e358f0d2e24545b9a227269f9d2760da3732c5"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\pages\\diz_page2.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\pages\\diz_page2.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 285,
+            "modifiedTime": 1516199399073,
+            "changeTime": 1516199399073,
+            "contentHash": "9a91ae141bda1e99b8b5c9d41754a97a6329ca71"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\pages\\diz_page2.page",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\pages\\diz_page2.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 164,
+            "modifiedTime": 1516199399074,
+            "changeTime": 1516199399074,
+            "contentHash": "1da39a8217ae203343495260ac27f79112281306"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects\\Object_diz__c\\fields\\diz_number_c__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects\\Object_diz__c\\fields\\diz_number_c__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 399,
+            "modifiedTime": 1516199399082,
+            "changeTime": 1516199399082,
+            "contentHash": "28bea5a9ff1da69e2ea1c91134085cb669bf7d79"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\layouts\\Object_diz__c-Object_diz Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\layouts\\Object_diz__c-Object_diz Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2089,
+            "modifiedTime": 1516199399086,
+            "changeTime": 1516199399086,
+            "contentHash": "562f96d66af9694db3893aee21712634de1d34ff"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessor.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516199399104,
+            "changeTime": 1516199399104,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessor.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessor.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 673,
+            "modifiedTime": 1516199399105,
+            "changeTime": 1516199399105,
+            "contentHash": "c82551113ad0df05ab76a12d6723a2fd62079f1f"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClassTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClassTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516199399108,
+            "changeTime": 1516199399108,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClassTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClassTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 172,
+            "modifiedTime": 1516199399108,
+            "changeTime": 1516199399108,
+            "contentHash": "8d22a54514825b7a4ee957268e63f0d630abfec4"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516199399111,
+            "changeTime": 1516199399111,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\FakeClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14075,
+            "modifiedTime": 1516199399111,
+            "changeTime": 1516199399111,
+            "contentHash": "59009b075fc74833821c60dcd67caa4c5b5b5169"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessorTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516199399113,
+            "changeTime": 1516199399113,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes\\LeadProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 547,
+            "modifiedTime": 1516199399114,
+            "changeTime": 1516199399114,
+            "contentHash": "03c407343b4711b9002b0d75efccaa072b184e10"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5301,
+            "modifiedTime": 1516199399124,
+            "changeTime": 1516199399124,
+            "contentHash": "39b1f3904f7eac1865ee133967c78d1b07edf56f"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4964,
+            "modifiedTime": 1516199399142,
+            "changeTime": 1516199399142,
+            "contentHash": "ae22f43e54dcd7fa1f56a899c99bd4fa36400e5a"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4963,
+            "modifiedTime": 1516199399148,
+            "changeTime": 1516199399148,
+            "contentHash": "5b92e1581a57f37212d776eb1b2183125cf18b03"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17992,
+            "modifiedTime": 1516199399165,
+            "changeTime": 1516199399165,
+            "contentHash": "977208e9292bf6d3545a38aba75fae8f1ee84bb6"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\components",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399069,
+            "changeTime": 1516199399069,
+            "contentHash": "ebbd4bc8e5953c66204bef1db859cb1911ffd649"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399074,
+            "changeTime": 1516199399074,
+            "contentHash": "8c0abed896c3546e01d47b81046a5871defaa841"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects\\Object_diz__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects\\Object_diz__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399082,
+            "changeTime": 1516199399082,
+            "contentHash": "5a33cf1a4293f424e7188948f31b860bf3ffba9a"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects\\Object_diz__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects\\Object_diz__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399081,
+            "changeTime": 1516199399081,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399081,
+            "changeTime": 1516199399081,
+            "contentHash": "32bc2393fe6a09cc0293ad27c81d26750838b81b"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399085,
+            "changeTime": 1516199399085,
+            "contentHash": "80674f0df74f0f707d195791659b162891451f13"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399114,
+            "changeTime": 1516199399114,
+            "contentHash": "480dd9616c9fcaa2c7aa26f43272147ae644781d"
+        }
+    ],
+    [
+        "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\The Welkin Suite\\Projects\\DXProject1\\DXProject1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516199399165,
+            "changeTime": 1516199399165,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
